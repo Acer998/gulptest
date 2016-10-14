@@ -1,0 +1,3 @@
+.radio-success input[type="radio"]:checked + label::before {
+    outline: none;
+}

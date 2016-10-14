@@ -1,0 +1,39 @@
+#exchange{
+    margin-left: 20px;
+    color: #1ab394;
+}
+#editAddress,#editPassword,#editCompany{
+    color: #1ab394;
+}
+#editAddress:hover,#editPassword:hover,#editCompany:hover{
+    cursor: pointer;
+}
+#qrcode{
+    width: 100%;
+    margin-bottom: 15px;
+}
+#name{
+    margin-right:5px;
+    font-size:1.2em;
+    font-weight:bold;
+    color: #1ab394;
+}
+#qrcode canvas{
+    display: none;
+}
+#shareBtn{
+    width:128px;
+    margin:10px 0;
+}
+#scroeHistory_filter input[type="search"]{
+    display:none!important;
+}
+#scroeHistory_filter label:after{
+    display:none!important;
+}
+.begin-date{
+    width: 40%;display:inline-block;margin-right:15px;
+}
+.end-date{
+    width: 40%;display:inline-block;margin-left:15px;
+}

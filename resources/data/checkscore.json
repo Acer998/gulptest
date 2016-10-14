@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "message": "操作成功。",
+    "data": {
+        "id": "AEsX6Po2rvicQC9yQc5ydm",
+        "hostId": "UxddhX6xNERdg6CuCQMArR",
+        "contacter": "杨德民",
+        "contactTel": "15262661515",
+        "address": "张东路2281号",
+        "isDefault": true,
+        "createdUser": "UxddhX6xNERdg6CuCQMArR",
+        "createdTime": 1471516494000,
+        "updatedUser": "UxddhX6xNERdg6CuCQMArR",
+        "updatedTime": 1471516494000,
+        "status": true
+    }
+}

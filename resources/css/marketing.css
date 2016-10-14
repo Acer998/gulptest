@@ -1,0 +1,116 @@
+/*内页复用样式,复制banbu2.0*/
+.form-horizontal .checkbox, .form-horizontal .checkbox-inline {
+    margin-bottom: 7px;
+}
+.badge pull-right{
+    background-color: #EF9F00;
+    color: #fff;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    padding: 3px;
+    margin-left:5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font: bold 9px Tahoma;
+    float: right!important;
+}
+.nav>li.nav-profile{
+    height: 77px;
+}
+.nav>li.nav-profile .image {
+    float: left;
+    width: 34px;
+    height: 34px;
+    margin-top: 2px;
+    margin-right: 15px;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.nav>li.nav-profile .image img{
+    width: 100%;
+    height: auto;
+}
+.has-sub>a>i.fa{
+    width:20px;
+    overflow:hidden;
+}
+body.fixed-nav #wrapper .navbar-static-side, body.fixed-nav #wrapper #page-wrapper{
+    margin-top:0px;
+}
+/*自定义通用样式*/
+.orange{
+    color: #f57f17;
+}
+.text-group{
+    padding: 7px 15px;
+    margin-bottom: 15px;
+}
+.goods{
+    width: 100%;
+    height: auto;
+}
+.goods:hover{
+    cursor: pointer;
+}
+.goods-wrapper{
+    margin-bottom:15px;
+}
+.goods-box{
+    color: #fff;
+}
+.goods-box .describe{
+    position: absolute;
+    left: 15px;
+    bottom: 0px;
+    width: calc(100% - 30px);
+    width: -webkit-calc(100% - 30px);
+    /*height: 20%;*/
+    background: rgba(0,0,0,.7);
+}
+.goods-box .goods-name{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.2em;
+    width: 60%;
+    height: 1.2em;
+    padding:0 10px;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.goods-box .goods-price{
+    vertical-align: middle;
+    display: inline-block;
+    width: 20%;
+}
+.goods-box .orange{
+    color: #f57f17;
+    margin-right: 5px;
+}
+.goods-box .btn{
+    margin: 10px 0px;
+}
+.goods-box .btn-xs{
+    padding: 1px 10px;
+}
+.goods-detimg{
+    width: 100%;
+    height: auto;
+}
+.control-text{
+    padding-top: 7px;
+}
+.status1,.status2{
+    display: none;
+}
+/*dt样式*/
+
+.table.dataTable>tbody>tr>td {
+    min-width: 30px!important;
+    max-width: 500px!important;
+    overflow:auto!important;
+    white-space:normal!important;
+}
+

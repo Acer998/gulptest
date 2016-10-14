@@ -1,0 +1,112 @@
+{
+    "code": 200,
+    "data": {
+        "integralGoodsList": [
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods1.jpg",
+                "createdTime": 1471510825000,
+                "goodsContent": "苹果6s，快来兑换。",
+                "goodsName": "苹果6s",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6001",
+                "integralValue": 800,
+                "sort": 1,
+                "status": true,
+                "updatedTime": 1471510828000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            },
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods2.jpg",
+                "createdTime": 1471510981000,
+                "goodsContent": "可爱的班步宠物。",
+                "goodsName": "班步宠物",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6002",
+                "integralValue": 40,
+                "sort": 2,
+                "status": true,
+                "updatedTime": 1471510986000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            },
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods3.jpg",
+                "createdTime": 1471510825000,
+                "goodsContent": "苹果6s，快来兑换。",
+                "goodsName": "苹果6s",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6001",
+                "integralValue": 800,
+                "sort": 1,
+                "status": true,
+                "updatedTime": 1471510828000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            },
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods1.jpg",
+                "createdTime": 1471510825000,
+                "goodsContent": "苹果6s，快来兑换。",
+                "goodsName": "苹果6s",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6001",
+                "integralValue": 800,
+                "sort": 1,
+                "status": true,
+                "updatedTime": 1471510828000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            },
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods2.jpg",
+                "createdTime": 1471510981000,
+                "goodsContent": "可爱的班步宠物。",
+                "goodsName": "班步宠物",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6002",
+                "integralValue": 40,
+                "sort": 2,
+                "status": true,
+                "updatedTime": 1471510986000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            },
+            {
+                "contentPicUrl": "/resources/img/testgoodsdetail1.jpg",
+                "coverPicUrl": "/resources/img/testgoods3.jpg",
+                "createdTime": 1471510825000,
+                "goodsContent": "苹果6s，快来兑换。",
+                "goodsName": "苹果6s",
+                "goodsStatus": 1,
+                "id": "QGLxpCpnMSxZLGEGmh6001",
+                "integralValue": 800,
+                "sort": 1,
+                "status": true,
+                "updatedTime": 1471510828000,
+                "validBegin": 1470041978000,
+                "validEnd": 1483174786000
+            }
+        ],
+        "recmderInfo": {
+            "createdTime": 1471510479000,
+            "createdUser": "UxddhX6xNERdg6CuCQMArR",
+            "hostId": "UxddhX6xNERdg6CuCQMArR",
+            "hostName": "yangdemin",
+            "hostTel": "13248220829",
+            "id": "AEsX6Po2rvicQC9yQc5YR7",
+            "regOrigin": 2,
+            "status": true,
+            "totalIntegral": 5,
+            "updatedTime": 1471510479000,
+            "updatedUser": "UxddhX6xNERdg6CuCQMArR",
+            "userInviteCode": "T51427"
+        }
+    },
+    "message": "操作成功。"
+}
